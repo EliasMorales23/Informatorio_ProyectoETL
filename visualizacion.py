@@ -6,6 +6,7 @@ clima= pd.read_csv(file_path)
 print(clima)
 
 print(clima.plot.bar())
+#plot (Matplotlib ) nos grafica el pedido 
 
 
 #Probamos con obteniendo un grafico con las  ubicaciones
